@@ -1,4 +1,15 @@
-After going bitcoindashboard0 folder at terminal, run this commands:
+# Bitcoin Dashboard
+It is a sample ReactJs Project.
+![](header.png)
+
+## Installation and Run
+
+OS X & Linux:
+
+```sh
 npm install
-and 
+```
+```sh
 npm start
+```
+
